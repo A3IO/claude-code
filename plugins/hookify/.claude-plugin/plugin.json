@@ -1,6 +1,6 @@
 {
   "name": "hookify",
-  "version": "2025.11.17",
+  "version": "2026.05.14",
   "description": "Easily create hooks to prevent unwanted behaviors by analyzing conversation patterns",
   "author": {
     "name": "Daisy Hollman",

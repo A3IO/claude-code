@@ -1,6 +1,6 @@
 {
   "name": "security-guidance",
-  "version": "2025.10.09",
+  "version": "2026.05.14",
   "description": "Security reminder hook that warns about potential security issues when editing files, including command injection, XSS, and unsafe code patterns",
   "author": {
     "name": "David Dworken",
